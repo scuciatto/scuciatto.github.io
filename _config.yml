@@ -1,0 +1,10 @@
+# Site settings
+title: Felipe Scuciatto
+email: scuciatto@gmail.com
+description: "Mobile Developer & Enterprenour"
+twitter_username: scuciatto
+github_username:  scuciatto
+
+# Build settings
+markdown: kramdown
+permalink: pretty
